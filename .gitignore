@@ -1,0 +1,15 @@
+build/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+dist/
+*.egg-info/
+*.egg
+*.whl
+*.log
+
+venv/
+.env
+.env.local
